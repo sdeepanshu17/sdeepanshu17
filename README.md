@@ -40,7 +40,7 @@ A Competetive programmer and Student. Ex-Programming Head @[CYBER CREW](https://
 <br />
 
 
-[![Deepanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=singhdeepanshu17&theme=radical&show_icons=true)]
+![Deepanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=singhdeepanshu17&theme=radical&show_icons=true)
 
 
 ---
