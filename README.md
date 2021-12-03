@@ -40,7 +40,7 @@ A Competetive programmer and Student. Ex-Programming Head @[CYBER CREW](https://
 <br />
 
 
-https://github-readme-stats.vercel.app/api?username=singhdeepanshu17
+[https://github-readme-stats.vercel.app/api?username=singhdeepanshu17]
 
 
 ---
