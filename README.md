@@ -2,7 +2,6 @@
 
 A Competetive programmer and Student. Ex-Programming Head @[CYBER CREW](https://cybercrew.sajs.co.in/index.htm)(2020-21). 
 
-[![Deepanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=singhdeepanshu17&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 - 🔭 I’m currently working on: Web Devlopment
@@ -29,6 +28,10 @@ A Competetive programmer and Student. Ex-Programming Head @[CYBER CREW](https://
 
 
 <br />
+
+
+[![Deepanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=singhdeepanshu17&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ---
 
