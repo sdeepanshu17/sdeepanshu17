@@ -49,4 +49,4 @@ A Competetive programmer and Student. Ex-Programming Head @[CYBER CREW](https://
 [website]: https://https://singhdeepanshu17.github.io
 [twitter]: https://twitter.com/s__deepanshu
 [instagram]: https://instagram.com/_deepanshu.singh_
-[linkedin]: https://linkedin.com/in/deepanshu-singh-32a371210
+[linkedin]: https://linkedin.com/in/sdeepanshu17
