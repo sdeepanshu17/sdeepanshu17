@@ -1,6 +1,6 @@
 ### Hey there, I'm Deepanshu Singh👋 
 
-A Competetive programmer and Student. Ex-Programming Head @[CYBER CREW](https://cybercrew.sajs.co.in/index.htm)(2020-21). 
+A Competetive programmer, Developer and Student. Ex-Programming Head @[CYBER CREW](https://cybercrew.sajs.co.in/index.htm)(2020-21). 
 
 
 
