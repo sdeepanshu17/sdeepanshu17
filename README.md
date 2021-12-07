@@ -4,8 +4,8 @@ A Competetive programmer and Student. Ex-Programming Head @[CYBER CREW](https://
 
 
 
-- 🔭 I’m currently working on: Web Devlopment
-- 🌱 I’m currently learning: 
+- 🔭 I’m currently working on: Android Devlopment
+- 🌱 I’m currently learning: Java
 - 👯 I’m looking to collaborate with a few organizations.
 - 🥅 2022 Goals: Contribute to Open Source projects
 - 📫 Reach me: deepanshu17092003@gmail.com 
