@@ -8,7 +8,7 @@ A Competetive programmer, Developer and Student. Ex-Programming Head @[CYBER CRE
 - 🌱 I’m currently learning: Java
 - 👯 I’m looking to collaborate with a few organizations.
 - 🥅 2022 Goals: Contribute to Open Source projects
-- 📫 Reach me: deepanshu17092003@gmail.com 
+- 📫 Reach me: 21bcs073@iiitdmj.ac.in 
 
 
 ### Languages and Tools:
