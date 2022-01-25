@@ -1,13 +1,12 @@
 ### Hey there, I'm Deepanshu Singh👋 
 
-A Competetive programmer, Developer and Student. Ex-Programming Head @[CYBER CREW](https://cybercrew.sajs.co.in/index.htm)(2020-21). 
+A Competitive programmer, Developer and Student. Ex-Programming Head @[CYBER CREW](https://cybercrew.sajs.co.in/index.htm)(2020-21). 
 
 
 
-- 🔭 I’m currently working on: Android Devlopment
-- 🌱 I’m currently learning: Java
-- 👯 I’m looking to collaborate with a few organizations.
-- 🥅 2022 Goals: Contribute to Open Source projects
+- 🔭 I’m currently working on: Competitive Programming
+- 🌱 I’m currently learning: CPP
+- 🥅 2022 Goals: 5 Star Codechef
 - 📫 Reach me: 21bcs073@iiitdmj.ac.in 
 
 
@@ -35,8 +34,18 @@ A Competetive programmer, Developer and Student. Ex-Programming Head @[CYBER CRE
 [<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 [<img align="left" alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
 
+
 <br />
 
+### My Competitive Profiles:
+
+[<img align="left" alt="my Website" src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" />][codechef]
+[<img align="left" alt="my Website" src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" />][codeforces]
+[<img align="left" alt="my Website" src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue" />][hackerearth]
+[<img align="left" alt="my Website" src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" />][hackerrank]
+
+
+<br />
 
 <br />
 
@@ -51,3 +60,10 @@ A Competetive programmer, Developer and Student. Ex-Programming Head @[CYBER CRE
 [twitter]: https://twitter.com/s__deepanshu
 [instagram]: https://instagram.com/_deepanshu.singh_
 [linkedin]: https://linkedin.com/in/sdeepanshu17
+[codechef]: https://www.codechef.com/users/deepanshu1709
+[codeforces]: https://codeforces.com/profile/sdeepanshu17
+[hackerearth]: https://www.hackerearth.com/@deepanshu17092003
+[hackerrank]: https://www.hackerrank.com/sdeepanshu17
+
+
+
