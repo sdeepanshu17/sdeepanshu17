@@ -42,7 +42,7 @@ A Competitive programmer, Developer and Student. Ex-Programming Head @[CYBER CRE
 [<img align="left" alt="my Website" src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" />][codechef]
 [<img align="left" alt="my Website" src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" />][codeforces]
 [<img align="left" alt="my Website" src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue" />][hackerearth]
-[<img align="left" alt="my Website" src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" />][hackerrank]
+[<img align="left" alt="my Website" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />][hackerrank]
 
 
 <br />
@@ -56,8 +56,8 @@ A Competitive programmer, Developer and Student. Ex-Programming Head @[CYBER CRE
 ---
 
 
-[website]: https://https://singhdeepanshu17.github.io
-[twitter]: https://twitter.com/s__deepanshu
+[website]: https://github.com/sdeepanshu17
+[twitter]: https://twitter.com/sdeepanshu17
 [instagram]: https://instagram.com/_deepanshu.singh_
 [linkedin]: https://linkedin.com/in/sdeepanshu17
 [codechef]: https://www.codechef.com/users/deepanshu1709
