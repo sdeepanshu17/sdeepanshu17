@@ -4,9 +4,7 @@ A Competitive programmer, Developer and Student. Ex-Programming Head @[CYBER CRE
 
 
 
-- 🔭 I’m currently working on: Competitive Programming and Full Stack Web Development
-- 🌱 I’m currently learning: CPP, React
-- 🥅 2022 Goals: 5 Star Codechef
+- 🔭 I’m currently: Competitive Programmer and MERN Stack Web Developer.
 - 📫 Reach me: 21bcs073@iiitdmj.ac.in 
 
 
